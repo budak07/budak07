@@ -15,4 +15,4 @@
 
 
 ## 📬 Contact Us
-For any inquiries, please email us at: [info@example.com](mailto:07budak70@gmail.com)
+For any inquiries, please email us at: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:07budak70@gmail.com)
