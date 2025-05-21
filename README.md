@@ -1,4 +1,4 @@
-# Hi , I am senior Electrical Electronics Engineer student.
+# Hi , I am senior Electrical Electronics Engineering student.
 
 ## Let's Connect!
 
